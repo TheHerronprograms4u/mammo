@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.streamlit/
+# Including .pkl files for immediate app functionality
+# breast_cancer_cfDNA_pipeline.pkl
+# breast_cancer_cfDNA_labelencoder.pkl
